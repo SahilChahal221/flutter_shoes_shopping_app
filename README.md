@@ -1,10 +1,10 @@
-# shop_app_flutter
+# flutter_shoes_shopping_app
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter app for Scaler Only.
 
 A few resources to get you started if this is your first Flutter project:
 
